@@ -9,7 +9,7 @@ source:[https://gist.github.com/cristianmiranda/6f269797b62076c3414c3baa848dda67
 ```
 cd driver/wifi/
 #run the following command as root or with sudo
-cp brcmfmac43602-pcie.txt /lib/firmware/brcm/
+cp brcmfmac43602-pcie.txt /lib/firmware/brcm/.
 ```
 
 ## 2.audio
