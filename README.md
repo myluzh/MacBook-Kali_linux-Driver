@@ -9,5 +9,6 @@ sudo cp wifi/brcmfmac43602-pcie.txt /lib/firmware/brcm
 2.audio
 
 cd audio/snd_hda_macbookpro/
+
 ./install.cirrus.driver.sh
 
