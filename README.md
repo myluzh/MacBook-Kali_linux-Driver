@@ -1,4 +1,11 @@
 # MacBook-Kali_linux-Driver
 
-只在MacBookPro 2016 测试通过，其他机型请自测。
+Tips:Only pass the test in MacBook Pro 2016. Please test yourself for other models.
+
 1.wifi
+sudo cp wifi/brcmfmac43602-pcie.txt /lib/firmware/brcm
+
+2.audio
+cd audio/snd_hda_macbookpro/
+./install.cirrus.driver.sh
+
