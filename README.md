@@ -1,6 +1,6 @@
 # MacBook-Kali_linux-Driver
 
-*Tips:Only pass the test in MacBook Pro 2016. Please test yourself for other models.*
+*Tips:Only pass the test in MacBook Pro 2016/2017. Please test yourself for other models.*
 
 ## 1.WiFi
 
