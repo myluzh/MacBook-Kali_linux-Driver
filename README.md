@@ -11,8 +11,7 @@ After testing, WiFi can access the Internet normally, but it can not be used for
 cd driver/wifi/
 #run the following command as root or with sudo
 cp brcmfmac43602-pcie.txt /lib/firmware/brcm/.
-
-
+reboot
 ```
 
 ## 2.Audio
