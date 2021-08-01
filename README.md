@@ -6,7 +6,7 @@
 
 Source:https://gist.github.com/cristianmiranda/6f269797b62076c3414c3baa848dda67#fle-brcmfmac43602-pcie-txt
 
-After testing, WiFi can access the Internet normally, but it can not be used for air ng (error adding monitor mode interface: command failed: operation not supported (- 95))
+After testing, WiFi can access the Internet normally, but it can not be used for airmon-ng (error adding monitor mode interface: command failed: operation not supported (- 95))
 ```
 cd driver/wifi/
 #run the following command as root or with sudo
